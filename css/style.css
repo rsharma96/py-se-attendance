@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Righteous|Sen&display=swap");
+
+@font-face {
+  src: url(./Ayuthaya.ttf) format("truetype");
+  /* src:url(../fonts/JetBrainsMono-Regular.ttf); */
+  font-family: "Ayuthaya";
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #292f36;
+  margin-top: 10px;
+  align-content: center;
+  font-family: "Ayuthaya";
+  color: #fff;
+}
+
+h2 {
+  font-family: "Righteous", cursive;
+  margin: 5px;
+}
+
+p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+.table {
+  margin: auto;
+  width: 50% !important;
+}
+
+.important {
+  border-bottom: 5px solid #f9ab55;
+}
+
+td,
+th {
+  font-family: "Ayuthaya";
+}
+
+label {
+  color: rgb(59, 218, 199);
+}
+
+
+form {
+  margin-top: 5px;
+  padding-top: 5px;
+  
+}
+
